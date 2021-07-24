@@ -1,0 +1,1 @@
+There are a few reasons why I haven't done this task. Firstly, it's too old even for this course (usage pybrain library for nn, bruh). Secondly, participants say that nn's quality is about 0.5 (x2 bruh). Thirdly, the "right" answer is random (x3 bruh). Finally, it's not necessary in order to get certificate. 
